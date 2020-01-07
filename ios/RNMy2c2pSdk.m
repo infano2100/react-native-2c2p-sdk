@@ -1,5 +1,5 @@
 
-#import <React/RCTLog.h>
+#import "RCTLog.h"
 #import "RNMy2c2pSdk.h"
 
 @implementation RNMy2c2pSdk
